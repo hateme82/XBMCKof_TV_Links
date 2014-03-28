@@ -1,0 +1,6 @@
+<item>
+<title>ABC</title>
+<link>rtmp://50.97.232.135:443/liverepeater playpath=stream1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream1.html live=true timeout=10</link>
+<thumbnail></thumbnail>
+</item>
+
